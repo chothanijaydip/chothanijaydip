@@ -1,10 +1,7 @@
-- 👋 Hi, I’m @chothanijaydip
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-
-<!---
-chothanijaydip/chothanijaydip is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+🔭 I’m currently working on creating chat experiences at Stream with Flutter.
+🌱 I’m currently learning Kotlin and Navtive Android Development
+👯 I’m looking to collaborate on anything exciting.
+💬 Ask me about Flutter, Firebase, Stories and Life in general
+📫 Reach me at: chothanijaydip98@gmail.com
+😄 Pronouns: He/Him
+⚡ Fun fact: The chocolate tip of the 🍦 is more fulfilling than a 🍫 itself.
