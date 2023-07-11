@@ -5,7 +5,7 @@
 
 👯 I’m looking to collaborate on anything exciting.
 
-💬 Ask me about Flutter, Firebase, Stories and Life in general
+💬 Ask me about Flutter, Firebase, React, Node JS, Stories and Life in general
 
 📫 Reach me at: chothanijaydip98@gmail.com
 
