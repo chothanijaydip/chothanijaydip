@@ -1,7 +1,7 @@
 
-🔭 I’m currently working on creating chat experiences at Stream with Flutter, NodeJS.
+🔭 I’m currently working on creating chat experiences at Stream with Flutter, NodeJS, Anguler, and React.
 
-🌱 I’m currently learning React Development
+🌱 I’m currently learning Deeplearning
 
 👯 I’m looking to collaborate on anything exciting.
 
